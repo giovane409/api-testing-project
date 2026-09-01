@@ -13,10 +13,10 @@ A REST API project created as a learning and QA automation portfolio project.
 - Pydantic
 
 ## How to Run
-python -m venv .venv
-.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-fastapi dev main.py
+- python -m venv .venv
+- .venv\Scripts\Activate.ps1
+- pip install -r requirements.txt
+- fastapi dev main.py
 
 ## Project Roadmap
 - [x] Initial FastAPI setup
